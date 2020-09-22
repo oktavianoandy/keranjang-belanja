@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+.cache/
+.vscode/
+dist/
+=======
+>>>>>>> 1d5f69e... initial commit
+node_modules/
+package-lock.json
