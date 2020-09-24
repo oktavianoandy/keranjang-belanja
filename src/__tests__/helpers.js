@@ -11,3 +11,7 @@ test('jika qty adalah 1, ketika dikurang 1 jadi = 2', () => {
 test('jika qty adalah 1, decrement button disabled = true', () => {
     expect(helper.disableDecrement(1)).toBeTruthy();
 });
+
+test('jika price 50000 dan qty adalah 2, maka sub total 100000', () => {
+    expect(helper.subTotal(50000,2)).toBe(100000);
+});
