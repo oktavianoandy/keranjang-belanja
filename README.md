@@ -4,7 +4,7 @@ Aplikasi cart sederhana. Disadur dan dimodifikasi dari [https://github.com/kodei
 # Acknowledgment
 [Riza Fahmi](https://github.com/rizafahmi)
 
-# Perubahan Sourcode
+# Perubahan Source Code
 Berikut ini adalah daftar perubahan source code keranjang belanja ini :
 
 1. Mengubah input price dan qty menjadi number dan juga mengubahnya menjadi readonly. Alasan saya mengubah kedua input tersebut menjadi readonly karena ketika barang sudah masuk ke keranjang belanja, user tidak dapat mengubah harga, hanya bisar merubah qty saja. Mengubah qty saya buat hanya bisa diubah melalui tombol plus(+) dan minus(-) saja, tidak melalui field input secara langsung.
