@@ -11,9 +11,19 @@ Berikut ini adalah daftar perubahan source code keranjang belanja ini :
 2. Membuat function disableDecrement dan juga testingnya.
 3. Membetulkan function incrementQty.
 4. Membuat function subTotal dan juga testingnya.
+5. Membuat function diskon dan juga testingnya.
 
 Berikut ini adalah daftar testing yang dilakukan :
 1. Testing incrementQty.
 2. Testing decrementQty.
 3. Testing subTotal.
 4. Testing disableDecrement.
+5. Testing diskon 50 persen.
+6. Testing kode diskon tidak diisi.
+7. Testing kode diskon diisi random.
+
+Berikut ini adalah kode diskon yang bisa dipakai:
+1. KD100 = diskon 100%.
+2. KD75 = diskon 75%.
+3. KD50 = diskon 50%.
+4. KD25 = diskkon 25%.
